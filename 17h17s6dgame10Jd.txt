@@ -1,0 +1,184 @@
+ULTIMA283.BAS PROGRAM OUTPUT
+ 
+number of rounds played during each session is           :   10000000
+number of sessions completed during entire simulation is :         10
+
+average size of the initial drop is                      :   -4127950 credits
+average duration of drop from start to lowest point is   :    9999992 rounds
+average duration of drop from start to finish is         :   10000000 rounds
+average size of the largest drop from a new high is      :   -4127954 credits
+average bankroll change at the end of session is         :   -4127946 credits
+
+total number of wagers won by house  :     140190435.0
+total number of wagers won by player :      98910975.0
+player is winning  41.37% of all wagers won       ROUND NUMBER  100000000 
+total number of credits won by house :     140190435.0
+total number of credits won by player:      98910975.0
+player is winning  41.37% of all credits won        reshuffles  100000000 
+finish purse %-41279460.0 high        0.0 low %-41279462.0  largest drop -4138241.0
+change in purse is an average of   -4127946.00 credits after  10000000  rounds
+one standard deviation equal to        4441.87 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+in the following table, each of   10 sessions completed during the simulation are ranked
+from smallest to biggest according to the size of the initial drop in the bankroll measured as a number of credits
+
+
+                initial drop        start to lowest point        start to finish             largest drop           session end
+RANK                 SIZE                 DURATION                 DURATION                      SIZE            BANKROLL CHANGE
+
+   1           -4121996.0                  9999993                 10000000                -4121999.0                -4121982.0
+   2           -4122336.0                  9999998                 10000000                -4122336.0                -4122334.0
+   3           -4123795.0                  9999984                 10000000                -4123799.0                -4123788.0
+   4           -4123828.0                  9999986                 10000000                -4123832.0                -4123822.0
+   5           -4125026.0                  9999990                 10000000                -4125039.0                -4125023.0
+   6           -4129022.0                 10000000                 10000000                -4129022.0                -4129022.0
+   7           -4130226.0                  9999999                 10000000                -4130235.0                -4130224.0
+   8           -4130261.0                 10000000                 10000000                -4130265.0                -4130261.0
+   9           -4134767.0                  9999980                 10000000                -4134769.0                -4134766.0
+  10           -4138239.0                  9999989                 10000000                -4138241.0                -4138238.0
+
+
+in the following table, each of   10 sessions completed during the entire simulation are ranked
+from shortest to longest according to the duration of the initial drop from start to the lowest point measured as a number of rounds.
+
+
+                initial drop        start to lowest point        start to finish             largest drop           session end
+RANK                 SIZE                 DURATION                 DURATION                      SIZE            BANKROLL CHANGE
+
+   1           -4134767.0                  9999980                 10000000                -4134769.0                -4134766.0
+   2           -4123795.0                  9999984                 10000000                -4123799.0                -4123788.0
+   3           -4123828.0                  9999986                 10000000                -4123832.0                -4123822.0
+   4           -4138239.0                  9999989                 10000000                -4138241.0                -4138238.0
+   5           -4125026.0                  9999990                 10000000                -4125039.0                -4125023.0
+   6           -4121996.0                  9999993                 10000000                -4121999.0                -4121982.0
+   7           -4122336.0                  9999998                 10000000                -4122336.0                -4122334.0
+   8           -4130226.0                  9999999                 10000000                -4130235.0                -4130224.0
+   9           -4130261.0                 10000000                 10000000                -4130265.0                -4130261.0
+  10           -4129022.0                 10000000                 10000000                -4129022.0                -4129022.0
+
+
+in the following table, each of   10 sessions completed during the entire simulation are ranked
+from shortest to longest according to the duration of the initial drop from start to finish measured as a number of rounds.
+
+
+                initial drop        start to lowest point        start to finish             largest drop           session end
+RANK                 SIZE                 DURATION                 DURATION                      SIZE            BANKROLL CHANGE
+
+   1           -4130226.0                  9999999                 10000000                -4130235.0                -4130224.0
+   2           -4123795.0                  9999984                 10000000                -4123799.0                -4123788.0
+   3           -4134767.0                  9999980                 10000000                -4134769.0                -4134766.0
+   4           -4123828.0                  9999986                 10000000                -4123832.0                -4123822.0
+   5           -4138239.0                  9999989                 10000000                -4138241.0                -4138238.0
+   6           -4125026.0                  9999990                 10000000                -4125039.0                -4125023.0
+   7           -4130261.0                 10000000                 10000000                -4130265.0                -4130261.0
+   8           -4122336.0                  9999998                 10000000                -4122336.0                -4122334.0
+   9           -4121996.0                  9999993                 10000000                -4121999.0                -4121982.0
+  10           -4129022.0                 10000000                 10000000                -4129022.0                -4129022.0
+
+
+in the following table, each of   10 sessions completed during the entire simulation are ranked
+from smallest to biggest according to the size of the largest drop from a new high measured as a number of credits
+
+
+                initial drop        start to lowest point        start to finish             largest drop           session end
+RANK                 SIZE                 DURATION                 DURATION                      SIZE            BANKROLL CHANGE
+
+   1           -4121996.0                  9999993                 10000000                -4121999.0                -4121982.0
+   2           -4122336.0                  9999998                 10000000                -4122336.0                -4122334.0
+   3           -4123795.0                  9999984                 10000000                -4123799.0                -4123788.0
+   4           -4123828.0                  9999986                 10000000                -4123832.0                -4123822.0
+   5           -4125026.0                  9999990                 10000000                -4125039.0                -4125023.0
+   6           -4129022.0                 10000000                 10000000                -4129022.0                -4129022.0
+   7           -4130226.0                  9999999                 10000000                -4130235.0                -4130224.0
+   8           -4130261.0                 10000000                 10000000                -4130265.0                -4130261.0
+   9           -4134767.0                  9999980                 10000000                -4134769.0                -4134766.0
+  10           -4138239.0                  9999989                 10000000                -4138241.0                -4138238.0
+
+
+in the following table, each of   10 sessions completed during the entire simulation are ranked
+from greatest gain to greatest loss according to the end of session net change in bankroll measured as a number of credits.
+
+
+                initial drop        start to lowest point        start to finish             largest drop           session end
+RANK                 SIZE                 DURATION                 DURATION                      SIZE            BANKROLL CHANGE
+
+   1           -4121996.0                  9999993                 10000000                -4121999.0                -4121982.0
+   2           -4122336.0                  9999998                 10000000                -4122336.0                -4122334.0
+   3           -4123795.0                  9999984                 10000000                -4123799.0                -4123788.0
+   4           -4123828.0                  9999986                 10000000                -4123832.0                -4123822.0
+   5           -4125026.0                  9999990                 10000000                -4125039.0                -4125023.0
+   6           -4129022.0                 10000000                 10000000                -4129022.0                -4129022.0
+   7           -4130226.0                  9999999                 10000000                -4130235.0                -4130224.0
+   8           -4130261.0                 10000000                 10000000                -4130265.0                -4130261.0
+   9           -4134767.0                  9999980                 10000000                -4134769.0                -4134766.0
+  10           -4138239.0                  9999989                 10000000                -4138241.0                -4138238.0
+
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST        55435027.0     68978290.0     28479059.0     152892376.0   
+PLAYER BUST           0.0     57169675.0            0.0      57169675.0   
+DEALER BUST    43475948.0            0.0            0.0      43475948.0   
+DOUBLE BUST           0.0     14042470.0            0.0      14042470.0   
+TOTAL          98910975.0    140190435.0     28479059.0     267580469.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             20.72%         25.78%         10.64%          57.14%  
+PLAYER BUST          0.00%         21.37%          0.00%          21.37%  
+DEALER BUST         16.25%          0.00%          0.00%          16.25%  
+DOUBLE BUST          0.00%          5.25%          0.00%           5.25%  
+TOTAL               36.96%         52.39%         10.64%         100.00%  
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+

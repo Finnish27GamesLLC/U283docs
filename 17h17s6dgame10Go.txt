@@ -1,0 +1,926 @@
+
+number of cards is 312   300 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7d, player cards are Td Qd, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7d 4h 5d 2c  
+player cards for hand  1  are   Td 6h 7h  
+player cards for hand  2  are   Qd 2c Jc  
+player cards for hand  3  are   Tc Ad  
+      player hand(s):  23   22   21                       house hand:  18 
+house won:       2.0
+player won:      1.0
+total number of wagers won by house   :       1119596.0
+total number of wagers won by player  :       1407804.0
+player is winning  55.70% of all wagers won     ROUND NUMBER  1000000 
+total number of credits won by house  :       1119596.0
+total number of credits won by player :       1407804.0
+player is winning  55.70% of all credits won      reshuffles  999999 
+finish purse   288208.0 high   288211.0 low        -9.0  largest drop -61 
+change in purse is an average of     288208.00 credits after  1000000  rounds
+one standard deviation equal to           0.00 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          871514.0       340216.0       301069.0       1512799.0   
+PLAYER BUST           0.0       604539.0            0.0        604539.0   
+DEALER BUST      536290.0            0.0            0.0        536290.0   
+DOUBLE BUST           0.0       174841.0            0.0        174841.0   
+TOTAL           1407804.0      1119596.0       301069.0       2828469.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.81%         12.03%         10.64%          53.48%  
+PLAYER BUST          0.00%         21.37%          0.00%          21.37%  
+DEALER BUST         18.96%          0.00%          0.00%          18.96%  
+DOUBLE BUST          0.00%          6.18%          0.00%           6.18%  
+TOTAL               49.77%         39.58%         10.64%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   306 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7d, player cards are Jd Jh, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7d Kc  
+player cards for hand  1  are   Jd Ah  
+player cards for hand  2  are   Jh 7s  
+      player hand(s):  21   17                       house hand:  17 
+house won:       0.0
+player won:      1.0
+total number of wagers won by house   :       1119374.0
+total number of wagers won by player  :       1406850.0
+player is winning  55.69% of all wagers won     ROUND NUMBER  2000000 
+total number of credits won by house  :       1119374.0
+total number of credits won by player :       1406850.0
+player is winning  55.69% of all credits won      reshuffles  1999999 
+finish purse   287476.0 high   287476.0 low         0.0  largest drop -84 
+change in purse is an average of     287842.00 credits after  1000000  rounds
+one standard deviation equal to         258.80 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          868639.0       339826.0       300041.0       1508506.0   
+PLAYER BUST           0.0       603494.0            0.0        603494.0   
+DEALER BUST      538211.0            0.0            0.0        538211.0   
+DOUBLE BUST           0.0       176054.0            0.0        176054.0   
+TOTAL           1406850.0      1119374.0       300041.0       2826265.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.73%         12.02%         10.62%          53.37%  
+PLAYER BUST          0.00%         21.35%          0.00%          21.35%  
+DEALER BUST         19.04%          0.00%          0.00%          19.04%  
+DOUBLE BUST          0.00%          6.23%          0.00%           6.23%  
+TOTAL               49.78%         39.61%         10.62%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   298 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7s, player cards are Ts Kd, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7s 5h 7d  
+player cards for hand  1  are   Ts 3h 2h Jd  
+player cards for hand  2  are   Kd 5c 8h  
+player cards for hand  3  are   Kc 4d Ah 6c  
+      player hand(s):  25   23   21                       house hand:  19 
+house won:       2.0
+player won:      1.0
+total number of wagers won by house   :       1118436.0
+total number of wagers won by player  :       1408488.0
+player is winning  55.74% of all wagers won     ROUND NUMBER  3000000 
+total number of credits won by house  :       1118436.0
+total number of credits won by player :       1408488.0
+player is winning  55.74% of all credits won      reshuffles  2999999 
+finish purse   290052.0 high   290056.0 low        -2.0  largest drop -84 
+change in purse is an average of     288578.67 credits after  1000000  rounds
+one standard deviation equal to         660.46 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          870109.0       339036.0       299373.0       1508518.0   
+PLAYER BUST           0.0       604357.0            0.0        604357.0   
+DEALER BUST      538379.0            0.0            0.0        538379.0   
+DOUBLE BUST           0.0       175043.0            0.0        175043.0   
+TOTAL           1408488.0      1118436.0       299373.0       2826297.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.79%         12.00%         10.59%          53.37%  
+PLAYER BUST          0.00%         21.38%          0.00%          21.38%  
+DEALER BUST         19.05%          0.00%          0.00%          19.05%  
+DOUBLE BUST          0.00%          6.19%          0.00%           6.19%  
+TOTAL               49.84%         39.57%         10.59%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   304 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7c, player cards are Jd Jc, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7c 3c 8d  
+player cards for hand  1  are   Jd 6h 9d  
+player cards for hand  2  are   Jc 7d  
+      player hand(s):  25   17                       house hand:  18 
+house won:       2.0
+player won:      0.0
+total number of wagers won by house   :       1119264.0
+total number of wagers won by player  :       1408813.0
+player is winning  55.73% of all wagers won     ROUND NUMBER  4000000 
+total number of credits won by house  :       1119264.0
+total number of credits won by player :       1408813.0
+player is winning  55.73% of all credits won      reshuffles  3999999 
+finish purse   289549.0 high   289551.0 low        -2.0  largest drop -84 
+change in purse is an average of     288821.25 credits after  1000000  rounds
+one standard deviation equal to         769.11 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          871250.0       339272.0       299543.0       1510065.0   
+PLAYER BUST           0.0       604542.0            0.0        604542.0   
+DEALER BUST      537563.0            0.0            0.0        537563.0   
+DOUBLE BUST           0.0       175450.0            0.0        175450.0   
+TOTAL           1408813.0      1119264.0       299543.0       2827620.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.81%         12.00%         10.59%          53.40%  
+PLAYER BUST          0.00%         21.38%          0.00%          21.38%  
+DEALER BUST         19.01%          0.00%          0.00%          19.01%  
+DOUBLE BUST          0.00%          6.20%          0.00%           6.20%  
+TOTAL               49.82%         39.58%         10.59%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   303 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7d, player cards are Qs Js, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7d Ad  
+player cards for hand  1  are   Qs Ad  
+player cards for hand  2  are   Js 8c  
+player cards for hand  3  are   Kc 4d 9c  
+      player hand(s):  21   18   23                       house hand:  18 
+house won:       1.0
+player won:      1.0
+total number of wagers won by house   :       1118187.0
+total number of wagers won by player  :       1407597.0
+player is winning  55.73% of all wagers won     ROUND NUMBER  5000000 
+total number of credits won by house  :       1118187.0
+total number of credits won by player :       1407597.0
+player is winning  55.73% of all credits won      reshuffles  4999999 
+finish purse   289410.0 high   289416.0 low        -1.0  largest drop -84 
+change in purse is an average of     288939.00 credits after  1000000  rounds
+one standard deviation equal to         808.41 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          871146.0       338212.0       301022.0       1510380.0   
+PLAYER BUST           0.0       604901.0            0.0        604901.0   
+DEALER BUST      536451.0            0.0            0.0        536451.0   
+DOUBLE BUST           0.0       175074.0            0.0        175074.0   
+TOTAL           1407597.0      1118187.0       301022.0       2826806.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.82%         11.96%         10.65%          53.43%  
+PLAYER BUST          0.00%         21.40%          0.00%          21.40%  
+DEALER BUST         18.98%          0.00%          0.00%          18.98%  
+DOUBLE BUST          0.00%          6.19%          0.00%           6.19%  
+TOTAL               49.79%         39.56%         10.65%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   304 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7d, player cards are Td Qd, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7d 6s 8h  
+player cards for hand  1  are   Td 9c  
+player cards for hand  2  are   Qd 6d 8d  
+      player hand(s):  19   24                       house hand:  21 
+house won:       2.0
+player won:      0.0
+total number of wagers won by house   :       1118957.0
+total number of wagers won by player  :       1407788.0
+player is winning  55.72% of all wagers won     ROUND NUMBER  6000000 
+total number of credits won by house  :       1118957.0
+total number of credits won by player :       1407788.0
+player is winning  55.72% of all credits won      reshuffles  5999999 
+finish purse   288831.0 high   288833.0 low       -26.0  largest drop -84 
+change in purse is an average of     288921.00 credits after  1000000  rounds
+one standard deviation equal to         818.59 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          869230.0       338881.0       300181.0       1508292.0   
+PLAYER BUST           0.0       604368.0            0.0        604368.0   
+DEALER BUST      538558.0            0.0            0.0        538558.0   
+DOUBLE BUST           0.0       175708.0            0.0        175708.0   
+TOTAL           1407788.0      1118957.0       300181.0       2826926.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.75%         11.99%         10.62%          53.35%  
+PLAYER BUST          0.00%         21.38%          0.00%          21.38%  
+DEALER BUST         19.05%          0.00%          0.00%          19.05%  
+DOUBLE BUST          0.00%          6.22%          0.00%           6.22%  
+TOTAL               49.80%         39.58%         10.62%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   301 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7s, player cards are Js Jd, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7s Ks  
+player cards for hand  1  are   Js 3s Ah 2d Qs  
+player cards for hand  2  are   Jd 8s  
+player cards for hand  3  are   Ts 7d  
+      player hand(s):  26   18   17                       house hand:  17 
+house won:       1.0
+player won:      1.0
+total number of wagers won by house   :       1120137.0
+total number of wagers won by player  :       1408242.0
+player is winning  55.70% of all wagers won     ROUND NUMBER  7000000 
+total number of credits won by house  :       1120137.0
+total number of credits won by player :       1408242.0
+player is winning  55.70% of all credits won      reshuffles  6999999 
+finish purse   288105.0 high   288105.0 low         0.0  largest drop -84 
+change in purse is an average of     288804.43 credits after  1000000  rounds
+one standard deviation equal to         823.52 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          869680.0       339310.0       300368.0       1509358.0   
+PLAYER BUST           0.0       605228.0            0.0        605228.0   
+DEALER BUST      538562.0            0.0            0.0        538562.0   
+DOUBLE BUST           0.0       175599.0            0.0        175599.0   
+TOTAL           1408242.0      1120137.0       300368.0       2828747.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.74%         12.00%         10.62%          53.36%  
+PLAYER BUST          0.00%         21.40%          0.00%          21.40%  
+DEALER BUST         19.04%          0.00%          0.00%          19.04%  
+DOUBLE BUST          0.00%          6.21%          0.00%           6.21%  
+TOTAL               49.78%         39.60%         10.62%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   306 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7c, player cards are Td Jc, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7c Jc  
+player cards for hand  1  are   Td Ah  
+player cards for hand  2  are   Jc 9d  
+      player hand(s):  21   19                       house hand:  17 
+house won:       0.0
+player won:      2.0
+total number of wagers won by house   :       1119623.0
+total number of wagers won by player  :       1406550.0
+player is winning  55.68% of all wagers won     ROUND NUMBER  8000000 
+total number of credits won by house  :       1119623.0
+total number of credits won by player :       1406550.0
+player is winning  55.68% of all credits won      reshuffles  7999999 
+finish purse   286927.0 high   286927.0 low         0.0  largest drop -84 
+change in purse is an average of     288569.75 credits after  1000000  rounds
+one standard deviation equal to         849.18 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          871163.0       338577.0       301069.0       1510809.0   
+PLAYER BUST           0.0       605429.0            0.0        605429.0   
+DEALER BUST      535387.0            0.0            0.0        535387.0   
+DOUBLE BUST           0.0       175617.0            0.0        175617.0   
+TOTAL           1406550.0      1119623.0       301069.0       2827242.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.81%         11.98%         10.65%          53.44%  
+PLAYER BUST          0.00%         21.41%          0.00%          21.41%  
+DEALER BUST         18.94%          0.00%          0.00%          18.94%  
+DOUBLE BUST          0.00%          6.21%          0.00%           6.21%  
+TOTAL               49.75%         39.60%         10.65%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   304 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7h, player cards are Ts Kd, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7h 6s 3h 7d  
+player cards for hand  1  are   Ts Ah  
+player cards for hand  2  are   Kd 8d  
+      player hand(s):  21   18                       house hand:  23 
+house won:       0.0
+player won:      2.0
+total number of wagers won by house   :       1118570.0
+total number of wagers won by player  :       1408127.0
+player is winning  55.73% of all wagers won     ROUND NUMBER  9000000 
+total number of credits won by house  :       1118570.0
+total number of credits won by player :       1408127.0
+player is winning  55.73% of all credits won      reshuffles  8999999 
+finish purse   289557.0 high   289563.0 low         0.0  largest drop -84 
+change in purse is an average of     288679.44 credits after  1000000  rounds
+one standard deviation equal to         867.51 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          870947.0       339013.0       300705.0       1510665.0   
+PLAYER BUST           0.0       604465.0            0.0        604465.0   
+DEALER BUST      537180.0            0.0            0.0        537180.0   
+DOUBLE BUST           0.0       175092.0            0.0        175092.0   
+TOTAL           1408127.0      1118570.0       300705.0       2827402.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.80%         11.99%         10.64%          53.43%  
+PLAYER BUST          0.00%         21.38%          0.00%          21.38%  
+DEALER BUST         19.00%          0.00%          0.00%          19.00%  
+DOUBLE BUST          0.00%          6.19%          0.00%           6.19%  
+TOTAL               49.80%         39.56%         10.64%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
+number of cards is 312   299 cards remain to be played  reshuffle is at 308 
+average number of decks in play is 6.00 average number of cards per hand is 2.63
+card count:   0.00  constant added:  0.00  bet count:   0.00
+high count:   0.00 low count:   0.00 av count:  0.00 av count*wager:  0.00
+insurance bet becomes profitable at a minimum count of   0.00
+table minimum is 1  table maximum is 1 , and biggest wager yet is 1 
+dealer upcard is 7c, player cards are Qh Jh, and player response is Split
+expected value of player response is               28.78%
+expected value of game is                          28.78%
+dealer cards are as follows     7c 2h 7s Js  
+player cards for hand  1  are   Qh 7s  
+player cards for hand  2  are   Jh 4s Ac Jc  
+player cards for hand  3  are   Kd 5c 2d  
+      player hand(s):  17   25   17                       house hand:  26 
+house won:       1.0
+player won:      2.0
+total number of wagers won by house   :       1118322.0
+total number of wagers won by player  :       1405967.0
+player is winning  55.70% of all wagers won     ROUND NUMBER  10000000 
+total number of credits won by house  :       1118322.0
+total number of credits won by player :       1405967.0
+player is winning  55.70% of all credits won      reshuffles  9999999 
+finish purse   287645.0 high   287646.0 low         0.0  largest drop -84 
+change in purse is an average of     288576.00 credits after  1000000  rounds
+one standard deviation equal to         881.66 credits
+
+values added to the running count as each card of a given denomination was played
+and then removed from the stack during this game simulation were as follows:
+
+A     =   -1.000
+2     =    1.000
+3     =    1.000
+4     =    1.000
+5     =    1.000
+6     =    1.000
+7     =    0.000
+8     =    0.000
+9     =    0.000
+T     =   -1.000
+J     =   -1.000
+Q     =   -1.000
+K     =   -1.000
+
+TOTAL =    0.000
+
+The user defined blackjack game rules for this simulation are as follows:
+
+17h17s6d/game10                                                                 
+
+
+
+The following is a table displaying the number of game wagers resolved
+by each possible outcome wherein on a win the dealer rewards the player
+on the game wager, on a loss the dealer collects the game wager from the
+the player, and on a push the dealer returns the game wager to the player.
+Each surrender is counted as loss of a half wager and push of a half wager.
+Each double down is counted as either win, loss, or push of two game wagers.
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST          869663.0       338995.0       300467.0       1509125.0   
+PLAYER BUST           0.0       603921.0            0.0        603921.0   
+DEALER BUST      536304.0            0.0            0.0        536304.0   
+DOUBLE BUST           0.0       175406.0            0.0        175406.0   
+TOTAL           1405967.0      1118322.0       300467.0       2824756.0   
+
+
+The following is a table displaying percentage of game wagers resolved
+by each possible outcome
+
+
+                      WIN           LOSS           PUSH           TOTAL
+
+NO BUST             30.79%         12.00%         10.64%          53.42%  
+PLAYER BUST          0.00%         21.38%          0.00%          21.38%  
+DEALER BUST         18.99%          0.00%          0.00%          18.99%  
+DOUBLE BUST          0.00%          6.21%          0.00%           6.21%  
+TOTAL               49.77%         39.59%         10.64%         100.00%  
+
+
+The following table displays information gathered during the simulation about
+the number of times the dealer paid the player for obtaining each of a set of
+user-defined predetermined winning card combinations and the bonus payoff if any.
+
+Card Combination      Number             Bonus Payoff
+
+
+blackjack                  0                      0.5 : 1 Odds 
+
+
+
+
